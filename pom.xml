@@ -9,10 +9,10 @@
 		<version>2.6.1</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>org.imt.corrige</groupId>
-	<artifactId>corrige</artifactId>
+	<groupId>com.orange</groupId>
+	<artifactId>Projet_Annuaire</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>corrige</name>
+	<name>Projet_Annuaire</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
